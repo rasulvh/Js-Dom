@@ -1,0 +1,94 @@
+.up{
+    display: flex;
+    justify-content: space-between;
+}
+
+.up .number{
+    width: 40%;
+}
+
+.middle{
+    display: flex;
+    justify-content: center;
+}
+
+.middle .btn-edit{
+    width: 20%;
+    height: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.down{
+    display: flex;
+    justify-content: space-around;
+}
+
+.down input{
+    width: 60%;
+}
+
+.down button{
+    width: 15%;
+}
+
+
+/* Practice */
+
+/* .test{
+    color: magenta;
+}
+
+.header{
+    color: greenyellow;
+} */
+
+/* .h1-design{
+    color: red;
+    width: 300px;
+    border: 2px solid black;
+}
+
+.head{
+    font-size: 60px;
+} */
+
+/* .active{
+    background-color: green;
+    border-radius: 10px;
+}
+
+.in-active{
+    background-color: red;
+    border-radius: 10px;
+} */
+
+/* body{
+    height: 100vh;
+    background-color: black;
+}
+
+#products .icon i{
+    font-size: 100px;
+    color: white;
+}
+
+#products .icon{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+}
+
+#products .container-edit button{
+    position: relative;
+    top: 400px;
+    left: 600px;
+}
+
+.lamp-on{
+    color: yellow;
+}
+
+.active-body{
+    background-color: yellow;
+} */
